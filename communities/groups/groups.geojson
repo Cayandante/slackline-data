@@ -7646,7 +7646,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-103.37202694577492, 20.69971738519943]
-      }
+      },
+    {
+      "type": "Feature",
+      "properties": { "id": "vYpbOJV", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [-22.822565, -47.067838] }
     }
   ]
 }
